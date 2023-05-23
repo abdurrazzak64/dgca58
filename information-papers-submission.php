@@ -1,0 +1,279 @@
+<?php
+include('shared/head.php');
+?>
+
+<!-- Button trigger modal  -->
+
+
+<body>
+
+    <!-- <div class="modal fade" id="exampleModalr" tabindex="-1" aria-labelledby="exampleModalrLabel" aria-hidden="true">
+        <div class="modal-dialog dist">
+            <div class="modal-content are_modal">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalrLabel">DGCA58</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="logo_text_height">
+                        <div class="logo_text">
+                            <img src="assets/images-2/logo/caab-logo-dgca.png" alt="icom-Image">
+                            <div class="logo_img-text">
+                                <h2>DGCA 2023</h2>
+                                <p>DGCA 202358 DGCA CONFERENCE APAC</p>
+                                <p>Dhaka, Bangladesh</p>
+                            </div>
+                        </div>
+                        <h1 class="heading_text">Letter of Appreciation</h1>
+                        <div class="logo_img_text_text">
+                            <p>Thank you for your Participation in the DGCA 58!</p>
+                            <p>Dear participants,
+                                The curtain has just fallen on the DGCA 58, which was held successful- ly on October
+                                15-19 in Dhaka,
+                                Republic of Bangladesh. On behalf of the organizer, we would like to extend our sincere
+                                appreciation
+                                to you for taking the time to be part of the DGCA 58.</p>
+
+                            <p>We are also pleased to inform you that photos from the conference are available online at
+                                www.dgca2023.bd. <br> We look forward to seeing you again and appreciate your continued
+                                interest and
+                                support.</p>
+                            <p>Respectfully yours, <br>
+                                The Secretariat of the 58th DGCA Conference - APAC</p>
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a href="gallery.html" class="btn btn-primary">Gallery</a>
+
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+
+    <!-- Large modal -->
+    <!-- Button trigger modal  -->
+    <!-- <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Large Modal
+  </button> -->
+
+    
+
+    <!-- Small modal -->
+
+
+
+
+    <?php
+        include('shared/preloader.php');
+    ?>
+    <!-- /.preloader -->
+
+    <!-- registration fixed start here -->
+    <?php
+        include('shared/registration_fixed.php');
+    ?>
+    <!-- registration fixed end here -->
+
+
+
+
+    <!-- <div class="page-wrapper"> -->
+    <header class="main-header clearfix">
+        <div class="page-wrapper">
+            <?php
+                include('shared/topbar.php');
+            ?>
+            <?php
+                include('shared/navbar.php');
+            ?>
+
+            <?php
+                include('shared/sticky_header.php');
+
+            ?>
+
+            <!-- /.stricky-header -->
+
+            
+
+            <!--Main Slider End-->
+
+
+            <section class="up-comming-events">
+                <div class="container-fluid headding-text mb-2">
+                    <div class="col-12">
+                        <h1 class="text-center">Information Papers Submissions</h1>
+                    </div>
+                </div>
+                <!-- body text heading here start  -->
+                <!-- <div data-canvas="container">
+            <div class="section-title-page area-bg area-bg_dark area-bg_op_60">
+                <div class="area-bg__inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col offset-lg-3">
+                                <div class="b-title-page__wrap">
+                                    <h1 class="b-title-page">Information Papers Submissions</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+                <!-- body text heading end here  -->
+                <div class="rtd typography-page">
+                    <div class="typography-section typography-section-border">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="table-responsive">
+                                        <table class="custom_tbl table table-bordered mb-0 table-s1">
+                                            <caption><span>Discussion Papers</span></caption>
+                                            <thead class="d-submission" >
+                                                <tr>
+                                                    <th class="text-left" colspan="3">
+                                                        DAY 1, 11th Octber 2023, Wednesday
+                                                    </th>
+                                                    <!-- <th class="text-right" colspan="3">
+                                                        <a class="comment" href="#">Comment</a>
+                                                    </th> -->
+                                                </tr>
+                                                <tr>
+                                                    <th colspan="3">
+                                                        <strong>Agenda item 1:</strong>
+                                                    </th>
+                                                    <!-- <th class="select_option" colspan="3">
+                                                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                                            <option selected>Country</option>
+                                                            <option value="1">Bangladesh</option>
+                                                            <option value="1">India</option>
+                                                            <option value="1">Maldip</option>
+                                                          </select>
+                                                        
+                                                    </th> -->
+                                               
+                                                </tr>
+                                                <tr>
+                                                    <th>
+                                                        <strong>Reference</strong>
+                                                    </th>
+                                                    <th>
+                                                        <strong>Title</strong>
+                                                    </th>
+                                                    <th>
+                                                        <strong>Presented By</strong>
+                                                    </th>
+                                                    <th>
+                                                        <strong></strong>
+                                                    </th>
+                                                    
+                                                    <!-- <th class="d_paper">
+                                                     
+                                                        <input type="password" class="form-control d_paper" placeholder="Password Here">
+                                                        <button class="btn btn-outline-secondary" type="button" id="button-addon2" data-bs-toggle="modal" data-bs-target="#exampleModal"><a href="#">Submit</a></button>
+                                                    </th> -->
+                                                   
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td></td>
+                                                    <td>
+                                                        <strong>Coming soon...</strong>
+                                                    </td>
+                                                    <td></td>
+                                                    <td>
+                                                        <h4 class="btn" data-bs-toggle="modal" data-bs-target="#comment_Modal">Comment</h4>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <!-- <table class="table table-bordered mb-0 table-s1">
+                                            <caption><span>Information Papers</span></caption>
+                                            <thead>
+                                                <tr>
+                                                    <th class="text-left" colspan="3">
+                                                        DAY 1, 11th Octber 2023, Wednesday
+                                                    </th>
+                                                </tr>
+                                                <tr>
+                                                    <th class="text-center" colspan="3">
+                                                        <strong>Agenda item 1:</strong>
+                                                    </th>
+                                                </tr>
+                                                <tr>
+                                                    <th class="text-center">
+                                                        <strong>Reference</strong>
+                                                    </th>
+                                                    <th class="text-center">
+                                                        <strong>Title</strong>
+                                                    </th>
+                                                    <th class="text-center">
+                                                        <strong>Presented By</strong>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td></td>
+                                                    <td>
+                                                        <strong>Coming soon...</strong>
+                                                    </td>
+                                                    <td></td>
+                                                </tr>
+                                            </tbody>
+                                        </table> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+                <?php
+                include('shared/footer.php'); 
+            ?>
+            <!--Site Footer End-->
+        </div><!-- /.page-wrapper -->
+    </header>
+
+    
+    <!-- /.search-popup -->
+
+    <?php
+
+    include('shared/scroll.php');
+
+    ?>
+
+
+
+
+    <!-- all js here  -->
+
+    <!-- modal popup  -->
+    <!-- <script>
+    document.querySelector("#close").addEventListener("click",function(){
+     document.querySelector(".popup").style.display="none";
+        })
+</script> -->
+
+    <!-- countdown new here start -->
+    
+    <!-- countdown new here end -->
+
+    <!-- <script src="https://executionbd.com/dgca57/assets/js/custom.js"></script> -->
+    <?php
+
+    include('shared/script.php');
+
+    include('shared/modal.php');
+    ?>
+

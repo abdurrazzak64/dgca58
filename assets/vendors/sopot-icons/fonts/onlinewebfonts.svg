@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+Copyright (c) 2016, onlinewebfonts.Com
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20200428 at Wed Mar  1 15:39:28 2023
+ By www
+Copyright (c) 2016, onlinewebfonts.Com
+</metadata>
+<defs>
+<font id="onlinewebfonts" horiz-adv-x="1000" >
+  <font-face 
+    font-family="onlinewebfonts"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 5 9 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    bbox="10.0247 17.5251 990.1 582.4"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+E010-E010"
+  />
+    <missing-glyph />
+    <glyph glyph-name="uniE010" unicode="&#xe010;" 
+d="M21.7998 488.9l84.2002 82.0996c15.7002 15.2002 41 15.2002 56.7002 0l341.1 -304.1l333.7 297.5c15.5 15.1992 41 15.1992 56.5996 0l84.3008 -82.1006c15.5996 -15.2002 15.5996 -40 0 -55.2002l-446.7 -398.1c-15.7002 -15.2998 -41 -15.2998 -56.7002 0
+l-6.90039 6.7002l-446.3 398c-15.7002 15.2998 -15.7002 40 0 55.2002z" />
+  </font>
+</defs></svg>
